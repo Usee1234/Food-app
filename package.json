@@ -1,0 +1,27 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "This is a React course",
+  "scripts": {
+    "start": "parcel simple.html",
+    "build": "parcel build simple.html",
+    "test": "jest"
+  },
+  "author": "Vibhu",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "parcel": "^2.9.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "formik": "^2.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.2"
+  },
+  "browserslist": [
+    "last 2 chrome versions"
+  ]
+}
