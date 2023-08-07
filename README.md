@@ -16,9 +16,11 @@ Welcome to the Food Explorer App, a dynamic and user-friendly application built 
 
 - **Responsive Design:** Enjoy a seamless experience across devices, from laptops to tablets and smartphones.
 
-  - **Responsive Design:** used Parcel as a Bundler which enhances the apps functionality to a greater extent
+- ** Real-Time Restaurant Filter Using Search:**
+Introducing a powerful and user-centric enhancement to the Food Explorer App – the Real-Time Restaurant Filter using Search. This feature has been meticulously designed and integrated with React to provide users with a seamless and efficient way to discover their favorite restaurants based on their names.
 
-
+Build with Parcel
+Parcel is used as the bundler for this project. To create a production build, run:
 ## Getting Started
 
 1. Clone this repository: `git clone https://github.com/yourusername/food-explorer-app.git`
