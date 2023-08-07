@@ -1,0 +1,37 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+/* .list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+}
+
+.btn{
+margin-top: 0;
+display: flex;
+align-items: center;
+justify-content: center}
+a{
+text-decoration: none;
+}
+#bt-1{
+    margin-right: 24px;
+}
+#bt-2{
+    margin-right: 24px;
+}
+.para{
+    background-color: aquamarine;
+}
+.li1{
+    margin-right: 10%;
+}
+.li2{
+    margin-right: 10%;
+} */
+.inner{
+    background-color: aqua;
+}
