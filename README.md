@@ -34,6 +34,8 @@ Parcel is used as the bundler for this project. To create a production build, ru
 5. Open your browser and visit: `http://localhost:1234`
   
 7. Before cloneing please Ensure to check out parcel as bundler details then install it as a devloper dependency
+
+
 **App-ScreenShots**
 
 ![Screenshot (59)](https://github.com/Usee1234/Food-app/assets/94893243/208e0801-3aaa-4581-bdfd-4cf9b6173227)
